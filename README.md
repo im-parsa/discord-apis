@@ -1,4 +1,4 @@
-# https://github.com/spinfal/discord-apis/wiki
+# https://github.com/im-parsa/discord-apis/wiki
 
 ***
 
